@@ -5,6 +5,7 @@ body{
 
 .left{
     border: 1px dotted red;
+    max-width: 200px;
 }
 
 .right{
@@ -13,4 +14,8 @@ body{
 
 img{
     width: 150px;
+}
+
+.personal-info{
+    display: flex;
 }
