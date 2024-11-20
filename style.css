@@ -1,11 +1,16 @@
 body{
     border: 1px dotted red;
+    display: flex;
 }
 
 .left{
-
+    border: 1px dotted red;
 }
 
 .right{
-    
+    border: 1px dotted red;
+}
+
+img{
+    width: 150px;
 }
