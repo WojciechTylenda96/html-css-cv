@@ -1,8 +1,12 @@
 body{
     border: 1px dotted red;
     display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+p{
+    font-size: 12px;
+}
 .left{
     border: 1px dotted red;
     max-width: 200px;
